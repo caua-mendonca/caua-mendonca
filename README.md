@@ -34,7 +34,9 @@ Gosto de resolver problemas reais com código limpo, testável e pensado para es
 
 ## 🎭 Especialidade: Test Automation & RPA com Playwright
 
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="32"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="32"/> <img src="https://img.shields.io/badge/Python%20%2B%20Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32"/>
+<div align="center">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="32" style="margin: 0 6px;"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="32" style="margin: 0 6px;"/> <img src="https://img.shields.io/badge/Python%20%2B%20Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32" style="margin: 0 6px;"/>
+</div>
 
 Construo soluções de automação de ponta a ponta — não só testes, mas **bots de RPA que rodam em produção**, extraindo e processando dados reais:
 
