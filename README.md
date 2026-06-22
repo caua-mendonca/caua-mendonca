@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:1E40AF&height=230&section=header&text=Cau%C3%A3%20Mendon%C3%A7a%20Martello&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Desenvolvedor%20Fullstack%20%26%20Test%20Automation&descAlignY=55&descSize=19&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=220&section=header&text=Cau%C3%A3%20Mendon%C3%A7a%20Martello&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Fullstack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/caua-mendonca">
   <img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -11,13 +11,10 @@
 <a href="https://portfolio-dev-xi-puce.vercel.app/">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://github.com/caua-mendonca?tab=followers">
-  <img src="https://img.shields.io/github/followers/caua-mendonca?label=Followers&style=for-the-badge&color=1E3A8A&logo=github&logoColor=white"/>
-</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Dev+Fullstack+%7C+Node.js+%2B+TypeScript+%2B+Angular;Automacao+E2E+e+RPA+com+Playwright;Pipelines+de+dados+e+APIs+escalaveis;Sempre+aprendendo%2C+sempre+entregando" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Dev+Fullstack+%7C+Node.js+%2B+TypeScript+%2B+Angular;Automatizando+processos+com+Playwright;Construindo+APIs+escalaveis+e+interfaces+modernas;Aprendendo+algo+novo+todos+os+dias" alt="Typing SVG"/>
 
 </div>
 
@@ -25,14 +22,13 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou Desenvolvedor Fullstack, baseado em **Campos dos Goytacazes - RJ**, atualmente atuando na **Cia do Crédito**. Construo desde **interfaces modernas em React/Angular** até **APIs com arquitetura de microsserviços** — mas o que mais me move é **automação**: transformar processos manuais e repetitivos em scripts confiáveis que rodam sozinhos.
+Desenvolvedor Fullstack baseado em **Campos dos Goytacazes - RJ**, atualmente na **Cia do Crédito**. Trabalho no dia a dia com **Node.js, TypeScript e Angular**, com experiência que vai desde **APIs com arquitetura de microsserviços** até **automação RPA** com Playwright para extração e tratamento de dados.
 
-É nessa frente que mais me aprofundei nos últimos projetos: **testes end-to-end e RPA com Playwright + TypeScript**, extraindo e tratando dados reais de sistemas em produção.
+Gosto de resolver problemas reais com código limpo, testável e pensado para escalar — sempre evoluindo o stack com o que há de mais moderno em JavaScript/TypeScript.
 
-- 🎭 **Foco principal:** automação de testes e processos com Playwright
-- 🔭 Atualmente construindo soluções de **microsserviços e automação de dados**
-- 🌱 Aprimorando conhecimentos em **Next.js** e arquiteturas orientadas a testes
-- 📫 [LinkedIn](https://www.linkedin.com/in/caua-mendonca) · [devcauamartello@gmail.com](mailto:devcauamartello@gmail.com) · [Portfólio](https://portfolio-dev-xi-puce.vercel.app/)
+- 🔭 Focado atualmente em **microsserviços, automação e dashboards de dados**
+- 🌱 Aprimorando conhecimentos em **Next.js, Docker e observabilidade (Prometheus/Grafana)**
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/caua-mendonca) · [devcauamartello@gmail.com](mailto:devcauamartello@gmail.com) · [Portfólio](https://portfolio-dev-xi-puce.vercel.app/)
 
 <br/>
 
@@ -65,43 +61,48 @@ Construo soluções de automação de ponta a ponta — não só testes, mas **b
 
 ## 🛠️ Stack técnica
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="20%"><strong>Linguagens</strong></td>
+<td>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Frontend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-0F172A?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Backend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>DevOps & Automação</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33"/>
+<img src="https://img.shields.io/badge/Prometheus-0F172A?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/Grafana-0F172A?style=for-the-badge&logo=grafana&logoColor=F46800"/>
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/>
+</td>
+</tr>
+</table>
 
-**Linguagens**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark"/>
 
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs&theme=dark"/>
-
-<br/><br/>
-
-**Backend & Dados**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
-
-<br/><br/>
-
-**Ferramentas**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,docker,github,vscode&theme=dark"/>
-
-</div>
-
-<br/>
-
-## 🚀 Projetos
-
-### 🌟 Projeto principal
-
-<a href="https://github.com/caua-mendonca/playwright-rpa-transparencia">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-mendonca&repo=playwright-rpa-transparencia&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=CBD5E1&icon_color=3B82F6" width="100%"/>
-</a>
-
-### Outros projetos
+## 🚀 Projetos em destaque
 
 <table>
 <tr>
@@ -109,19 +110,17 @@ Construo soluções de automação de ponta a ponta — não só testes, mas **b
 <a href="https://github.com/caua-mendonca/task-manager-microservices">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-mendonca&repo=task-manager-microservices&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=CBD5E1&icon_color=3B82F6"/>
 </a>
-<br/>
-<sub><i>Inclui observabilidade com Prometheus/Grafana em ambiente de microsserviços.</i></sub>
 </td>
 <td width="50%">
-<a href="https://github.com/caua-mendonca/portfolio-dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-mendonca&repo=portfolio-dev&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=CBD5E1&icon_color=3B82F6"/>
+<a href="https://github.com/caua-mendonca/playwright-rpa-transparencia">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-mendonca&repo=playwright-rpa-transparencia&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=CBD5E1&icon_color=3B82F6"/>
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/caua-mendonca/shopee-seller-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-mendonca&repo=shopee-seller-dashboard&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=CBD5E1&icon_color=3B82F6"/>
+<a href="https://github.com/caua-mendonca/portfolio-dev">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-mendonca&repo=portfolio-dev&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=CBD5E1&icon_color=3B82F6"/>
 </a>
 </td>
 <td width="50%">
@@ -134,33 +133,29 @@ Construo soluções de automação de ponta a ponta — não só testes, mas **b
 
 <br/>
 
-## 📊 Estatísticas & Atividade
+## 📊 Estatísticas
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=caua-mendonca&show_icons=true&hide_border=true&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-mendonca&layout=compact&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=CBD5E1"/></td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=caua-mendonca&show_icons=true&hide_border=true&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-mendonca&layout=compact&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=CBD5E1"/>
+</td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caua-mendonca&hide_border=true&background=0F172A&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=CBD5E1&dates=94A3B8" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caua-mendonca&theme=react-dark&hide_border=true&bg_color=0F172A&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&title_color=3B82F6" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caua-mendonca&hide_border=true&background=0F172A&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=CBD5E1&dates=94A3B8"/>
 
 <br/>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=caua-mendonca&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
-</div>
-
-<br/>
-
-## 📈 Contribuições
+## 📈 Atividade recente
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caua-mendonca/caua-mendonca/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caua-mendonca/caua-mendonca/output/github-contribution-grid-snake.svg">
-  <img alt="Gráfico de contribuições animado" src="https://raw.githubusercontent.com/caua-mendonca/caua-mendonca/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="Gráfico de contribuições animado" src="https://raw.githubusercontent.com/caua-mendonca/caua-mendonca/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 <br/><br/>
@@ -169,6 +164,6 @@ Construo soluções de automação de ponta a ponta — não só testes, mas **b
 
 <img src="https://komarev.com/ghpvc/?username=caua-mendonca&style=for-the-badge&color=3B82F6&label=Profile+Views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
