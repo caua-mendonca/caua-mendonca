@@ -1,0 +1,54 @@
+<svg viewBox="0 0 760 370" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- card -->
+  <rect x="0.75" y="0.75" width="758.5" height="368.5" rx="14" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+
+  <!-- top bar -->
+  <rect x="0" y="0" width="760" height="40" rx="14" fill="#1E293B"/>
+  <rect x="0" y="20" width="760" height="20" fill="#1E293B"/>
+
+  <!-- traffic lights -->
+  <circle cx="26" cy="20" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="20" r="6" fill="#FFBD2E"/>
+  <circle cx="70" cy="20" r="6" fill="#27C93F"/>
+
+  <!-- filename -->
+  <text x="96" y="25" font-family="Consolas, monospace" font-size="13" fill="#94A3B8">rpa-transparencia.spec.ts</text>
+
+  <!-- tag pill -->
+  <rect x="580" y="9" width="166" height="22" rx="11" fill="#0F172A" stroke="#3B82F6" stroke-width="1"/>
+  <text x="663" y="24" font-family="Consolas, monospace" font-size="11" fill="#60A5FA" text-anchor="middle">🎭 Playwright + TS</text>
+
+  <!-- code -->
+  <g font-family="Consolas, 'Fira Code', monospace" font-size="13.5">
+
+    <text x="14" y="84" fill="#475569">1</text>
+    <text x="14" y="108" fill="#475569">2</text>
+    <text x="14" y="132" fill="#475569">3</text>
+    <text x="14" y="156" fill="#475569">4</text>
+    <text x="14" y="180" fill="#475569">5</text>
+    <text x="14" y="204" fill="#475569">6</text>
+    <text x="14" y="228" fill="#475569">7</text>
+    <text x="14" y="252" fill="#475569">8</text>
+    <text x="14" y="276" fill="#475569">9</text>
+    <text x="10" y="300" fill="#475569">10</text>
+    <text x="10" y="324" fill="#475569">11</text>
+
+    <text x="36" y="84"><tspan fill="#C084FC">import</tspan><tspan fill="#CBD5E1"> { </tspan><tspan fill="#60A5FA">test</tspan><tspan fill="#CBD5E1">, </tspan><tspan fill="#60A5FA">expect</tspan><tspan fill="#CBD5E1"> } </tspan><tspan fill="#C084FC">from</tspan><tspan fill="#CBD5E1"> </tspan><tspan fill="#4ADE80">'@playwright/test'</tspan><tspan fill="#CBD5E1">;</tspan></text>
+
+    <text x="36" y="132"><tspan fill="#60A5FA">test</tspan><tspan fill="#CBD5E1">(</tspan><tspan fill="#4ADE80">'extrai dados do Portal da Transparência'</tspan><tspan fill="#CBD5E1">, </tspan><tspan fill="#C084FC">async</tspan><tspan fill="#CBD5E1"> ({ page }) =&gt; {</tspan></text>
+
+    <text x="56" y="156"><tspan fill="#C084FC">await</tspan><tspan fill="#CBD5E1"> page.</tspan><tspan fill="#60A5FA">goto</tspan><tspan fill="#CBD5E1">(</tspan><tspan fill="#FBBF24">BASE_URL</tspan><tspan fill="#CBD5E1">);</tspan></text>
+
+    <text x="56" y="180"><tspan fill="#C084FC">await</tspan><tspan fill="#CBD5E1"> page.</tspan><tspan fill="#60A5FA">getByText</tspan><tspan fill="#CBD5E1">(</tspan><tspan fill="#4ADE80">'Servidores'</tspan><tspan fill="#CBD5E1">).</tspan><tspan fill="#60A5FA">click</tspan><tspan fill="#CBD5E1">();</tspan></text>
+
+    <text x="56" y="228"><tspan fill="#C084FC">const</tspan><tspan fill="#CBD5E1"> linhas = </tspan><tspan fill="#C084FC">await</tspan><tspan fill="#CBD5E1"> page.</tspan><tspan fill="#60A5FA">locator</tspan><tspan fill="#CBD5E1">(</tspan><tspan fill="#4ADE80">'table tr'</tspan><tspan fill="#CBD5E1">).</tspan><tspan fill="#60A5FA">all</tspan><tspan fill="#CBD5E1">();</tspan></text>
+
+    <text x="56" y="252"><tspan fill="#C084FC">await</tspan><tspan fill="#CBD5E1"> </tspan><tspan fill="#60A5FA">exportarParaExcel</tspan><tspan fill="#CBD5E1">(linhas); </tspan><tspan fill="#64748B">// CSV → XLSX via Pandas</tspan></text>
+
+    <text x="56" y="300"><tspan fill="#60A5FA">expect</tspan><tspan fill="#CBD5E1">(linhas.length).</tspan><tspan fill="#60A5FA">toBeGreaterThan</tspan><tspan fill="#CBD5E1">(</tspan><tspan fill="#FBBF24">0</tspan><tspan fill="#CBD5E1">);</tspan></text>
+
+    <text x="36" y="324" fill="#CBD5E1">});</text>
+
+  </g>
+</svg>
