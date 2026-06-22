@@ -150,6 +150,10 @@ Construo soluções de automação de ponta a ponta — não só testes, mas **b
 
 <br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caua-mendonca&theme=react-dark&hide_border=true&bg_color=0F172A&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&title_color=3B82F6" width="100%"/>
+
+<br/>
+
 ## 📈 Atividade recente
 
 <picture>
